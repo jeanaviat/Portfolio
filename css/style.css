@@ -347,7 +347,7 @@ main{padding-bottom:2rem;}
 /* Row 2 explicit column placement: shift right by one column
    so item 5 lines up under item 3, and item 4 under item 2 */
 .video-grid .video-tile:nth-child(4){
-  grid-column:2;
+  grid-column:1;
 }
 
 .video-grid .video-tile:nth-child(5){
