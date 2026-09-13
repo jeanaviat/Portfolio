@@ -19,4 +19,6 @@ const YOUTUBE_IDS = {
   "moving-still-underground-technologies": "vxr-OSj6mg4",
   "moving-still-harvard-square": "lKVTteGGELU",
   "moving-still-birds-snow": "j5osFkFZBK0",
+
+  "unusual-afternoon": "",
 };
