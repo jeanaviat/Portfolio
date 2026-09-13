@@ -9,7 +9,7 @@ const YOUTUBE_IDS = {
   "crumbs-credits": "XxW7jcjrbZKP44zr",
   "my-wife": "M5geVM67VL4",
   "skopein-fobos": "3Ru_AoNsizE",
-  "dust": "QQXWzqGpiDlo9DkW",
+  "dust": "ys9dUExQYRs",
   "waiting-for-godot": "ATsQe4yhNO0",
   "retour-aux-sources": ""
 };
