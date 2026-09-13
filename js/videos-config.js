@@ -6,7 +6,7 @@ const YOUTUBE_IDS = {
   "reel": "WKdg1RD7DEo",
   "foreigner": "tr-UuxpOFTw",
   "crumbs-title": "aZ9zdEdD7M4",
-  "crumbs-credits": "XxW7jcjrbZKP44zr",
+  "crumbs-credits": "sTkhYkHb0uQ",
   "my-wife": "M5geVM67VL4",
   "skopein-fobos": "3Ru_AoNsizE",
   "dust": "ys9dUExQYRs",
