@@ -7,7 +7,7 @@ const YOUTUBE_IDS = {
   "foreigner": "UZ3TbdSMw0sK_fTw",
   "crumbs-title": "q2N9NQEC5_GUt4hw",
   "crumbs-credits": "XxW7jcjrbZKP44zr",
-  "my-wife": "Y0m_pZ4__C59tGnc",
+  "my-wife": "M5geVM67VL4",
   "skopein-fobos": "",
   "dust": "QQXWzqGpiDlo9DkW",
   "waiting-for-godot": "5dmE4yasslpGhgAo",
