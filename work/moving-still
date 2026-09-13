@@ -30,23 +30,23 @@
       <p class="project-role">Sound Designer</p>
     </div>
     <div class="video-block">
-    <div class="video-frame" data-video-key="insert-key-1"></div>
+    <div class="video-frame" data-video-key="moving-still-1"></div>
     <p class="caption">INSERT CAPTION 1</p>
     </div>
     <div class="video-block">
-    <div class="video-frame" data-video-key="insert-key-2"></div>
+    <div class="video-frame" data-video-key="moving-still-2"></div>
     <p class="caption">INSERT CAPTION 2</p>
     </div>
     <div class="video-block">
-    <div class="video-frame" data-video-key="insert-key-3"></div>
+    <div class="video-frame" data-video-key="moving-still-3"></div>
     <p class="caption">INSERT CAPTION 3</p>
     </div>
     <div class="video-block">
-    <div class="video-frame" data-video-key="insert-key-4"></div>
+    <div class="video-frame" data-video-key="moving-still-4"></div>
     <p class="caption">INSERT CAPTION 4</p>
     </div>
     <div class="video-block">
-    <div class="video-frame" data-video-key="insert-key-5"></div>
+    <div class="video-frame" data-video-key="moving-still-5"></div>
     <p class="caption">INSERT CAPTION 5</p>
     </div>
   </main>
