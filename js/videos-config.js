@@ -20,5 +20,5 @@ const YOUTUBE_IDS = {
   "moving-still-harvard-square": "lKVTteGGELU",
   "moving-still-birds-snow": "j5osFkFZBK0",
 
-  "unusual-afternoon": "",
+  "unusual-afternoon": "uJiq-05gjKk",
 };
