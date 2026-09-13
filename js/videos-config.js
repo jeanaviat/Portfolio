@@ -11,5 +11,6 @@ const YOUTUBE_IDS = {
   "skopein-fobos": "3Ru_AoNsizE",
   "dust": "ys9dUExQYRs",
   "waiting-for-godot": "ATsQe4yhNO0",
-  "retour-aux-sources": "w3fiEcUXYxo"
+  "retour-aux-sources": "w3fiEcUXYxo",
+  "anonymes": ""
 };
