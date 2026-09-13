@@ -14,9 +14,9 @@ const YOUTUBE_IDS = {
   "retour-aux-sources": "w3fiEcUXYxo",
   "anonymes": "hTcr_pqEjw4",
   
-  "moving-still-sea-snow": "",
-  "moving-still-regard-nocturne": "",
-  "moving-still-underground-technologies": "",
-  "moving-still-harvard-square": "",
-  "moving-still-birds-snow": "",
+  "moving-still-sea-snow": "dqZqm6FLK0s",
+  "moving-still-regard-nocturne": "GLf_zA69ZNY",
+  "moving-still-underground-technologies": "vxr-OSj6mg4",
+  "moving-still-harvard-square": "lKVTteGGELU",
+  "moving-still-birds-snow": "j5osFkFZBK0",
 };
