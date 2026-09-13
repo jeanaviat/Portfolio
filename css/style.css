@@ -368,3 +368,46 @@ main{padding-bottom:2rem;}
     grid-column:auto !important;
   }
 }
+
+/* Thesis / reading section */
+.thesis-section{
+  margin-top:3rem;
+  padding-top:2rem;
+  border-top:1px solid var(--rule);
+}
+
+.thesis-section h3{
+  font-family:var(--sans);
+  font-size:.85rem;
+  font-weight:500;
+  color:var(--text-dim);
+  margin:0 0 1rem;
+}
+
+.thesis-section p{
+  color:var(--text-dim);
+  max-width:65ch;
+  line-height:1.7;
+}
+
+.thesis-section a{
+  color:var(--accent);
+}
+
+.audio-list{
+  display:flex;
+  flex-direction:column;
+  gap:1.5rem;
+  margin-top:1.5rem;
+  max-width:65ch;
+}
+
+.audio-item .audio-label{
+  color:var(--text);
+  font-size:.9rem;
+  margin:0 0 .5rem;
+}
+
+.audio-item audio{
+  width:100%;
+}
