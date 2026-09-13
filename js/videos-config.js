@@ -14,9 +14,9 @@ const YOUTUBE_IDS = {
   "retour-aux-sources": "w3fiEcUXYxo",
   "anonymes": "hTcr_pqEjw4",
   
-  "1": "",
-  "2": "",
-  "3": "",
-  "4": "",
-  "5": "",
+  "moving-still-1": "",
+  "moving-still-2": "",
+  "moving-still-3": "",
+  "moving-still-4": "",
+  "moving-still-5": "",
 };
