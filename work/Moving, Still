@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jean Aviat - Moving, Still</title>
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="logo"><a href="../index.html">Jean Aviat</a></div>
+    <nav class="main-nav">
+      <ul>
+              <li><a href="../index.html">Reel</a></li>
+              <li><a href="../music.html">Music</a></li>
+              <li><a href="../sound-design.html" class="active">Sound Design</a></li>
+              <li><a href="../video-games.html">Video Games</a></li>
+              <li><a href="../contact.html">Contact</a></li>
+      </ul>
+    </nav>
+    <button class="nav-toggle" aria-label="Toggle menu">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+    </button>
+  </header>
+  <main class="wrap">
+    <a class="back-link" href="../sound-design.html">&larr; Back to Sound Design</a>
+    <div class="project-header">
+      <h1 class="project-title">Moving, Still</h1>
+      <p class="project-meta">Moving Photographs/ Mia Cassidy, 2025</p>
+      <p class="project-role">Sound Designer</p>
+    </div>
+    <div class="video-block">
+    <div class="video-frame" data-video-key="insert-key-1"></div>
+    <p class="caption">INSERT CAPTION 1</p>
+    </div>
+    <div class="video-block">
+    <div class="video-frame" data-video-key="insert-key-2"></div>
+    <p class="caption">INSERT CAPTION 2</p>
+    </div>
+    <div class="video-block">
+    <div class="video-frame" data-video-key="insert-key-3"></div>
+    <p class="caption">INSERT CAPTION 3</p>
+    </div>
+    <div class="video-block">
+    <div class="video-frame" data-video-key="insert-key-4"></div>
+    <p class="caption">INSERT CAPTION 4</p>
+    </div>
+    <div class="video-block">
+    <div class="video-frame" data-video-key="insert-key-5"></div>
+    <p class="caption">INSERT CAPTION 5</p>
+    </div>
+  </main>
+  <footer class="site-footer">
+    Jean Aviat, 2026
+  </footer>
+  <script src="../js/videos-config.js"></script>
+  <script src="../js/main.js"></script>
+</body>
+</html>
