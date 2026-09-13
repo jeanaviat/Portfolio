@@ -12,5 +12,11 @@ const YOUTUBE_IDS = {
   "dust": "ys9dUExQYRs",
   "waiting-for-godot": "ATsQe4yhNO0",
   "retour-aux-sources": "w3fiEcUXYxo",
-  "anonymes": ""
+  "anonymes": "",
+  
+  "1": "",
+  "2": "",
+  "3": "",
+  "4": "",
+  "5": "",
 };
