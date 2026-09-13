@@ -30,23 +30,23 @@
       <p class="project-role">Sound Designer</p>
     </div>
     <div class="video-block">
-    <div class="video-frame" data-video-key="moving-still-1" data-loop></div>
+    <div class="video-frame" data-video-key="moving-still-sea-snow" data-loop></div>
     <p class="caption">INSERT CAPTION 1</p>
     </div>
     <div class="video-block">
-    <div class="video-frame" data-video-key="moving-still-2" data-loop></div>
+    <div class="video-frame" data-video-key="moving-still-regard-nocturne" data-loop></div>
     <p class="caption">INSERT CAPTION 2</p>
     </div>
     <div class="video-block">
-    <div class="video-frame" data-video-key="moving-still-3" data-loop></div>
+    <div class="video-frame" data-video-key="moving-still-underground-technologies" data-loop></div>
     <p class="caption">INSERT CAPTION 3</p>
     </div>
     <div class="video-block">
-    <div class="video-frame" data-video-key="moving-still-4" data-loop></div>
+    <div class="video-frame" data-video-key="moving-still-harvard-square" data-loop></div>
     <p class="caption">INSERT CAPTION 4</p>
     </div>
     <div class="video-block">
-    <div class="video-frame" data-video-key="moving-still-5" data-loop></div>
+    <div class="video-frame" data-video-key="moving-still-birds-snow" data-loop></div>
     <p class="caption">INSERT CAPTION 5</p>
     </div>
   </main>
