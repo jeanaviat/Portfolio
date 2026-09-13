@@ -10,6 +10,6 @@ const YOUTUBE_IDS = {
   "my-wife": "M5geVM67VL4",
   "skopein-fobos": "",
   "dust": "QQXWzqGpiDlo9DkW",
-  "waiting-for-godot": "5dmE4yasslpGhgAo",
+  "waiting-for-godot": "ATsQe4yhNO0",
   "retour-aux-sources": ""
 };
