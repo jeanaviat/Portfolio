@@ -327,3 +327,87 @@ img,video{max-width:100%;display:block;}
 }
 
 main{padding-bottom:2rem;}
+
+/* Multi-video grid (quinconce layout) */
+.video-grid{
+  display:grid;
+  grid-template-columns:repeat(3, 1fr);
+  gap:2.5rem 1.5rem;
+  margin:2.5rem 0;
+}
+
+.video-tile .video-frame{
+  aspect-ratio:16/9;
+}
+
+.video-grid .video-tile:nth-child(2n){
+  transform:translateY(2.5rem);
+}
+
+/* Row 2 explicit column placement: shift right by one column
+   so item 5 lines up under item 3, and item 4 under item 2 */
+.video-grid .video-tile:nth-child(4){
+  grid-column:1;
+}
+
+.video-grid .video-tile:nth-child(5){
+  grid-column:3;
+}
+
+.video-tile .caption{
+  text-align:center;
+}
+
+@media (max-width:760px){
+  .video-grid{
+    grid-template-columns:1fr;
+    gap:1.75rem;
+  }
+  .video-grid .video-tile{
+    transform:none !important;
+    grid-column:auto !important;
+  }
+}
+
+/* Thesis / reading section */
+.thesis-section{
+  margin-top:3rem;
+  padding-top:2rem;
+  border-top:1px solid var(--rule);
+}
+
+.thesis-section h3{
+  font-family:var(--sans);
+  font-size:.85rem;
+  font-weight:500;
+  color:var(--text-dim);
+  margin:0 0 1rem;
+}
+
+.thesis-section p{
+  color:var(--text-dim);
+  max-width:65ch;
+  line-height:1.7;
+}
+
+.thesis-section a{
+  color:var(--accent);
+}
+
+.audio-list{
+  display:flex;
+  flex-direction:column;
+  gap:1.5rem;
+  margin-top:1.5rem;
+  max-width:65ch;
+}
+
+.audio-item .audio-label{
+  color:var(--text);
+  font-size:.9rem;
+  margin:0 0 .5rem;
+}
+
+.audio-item audio{
+  width:100%;
+}

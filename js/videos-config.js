@@ -3,13 +3,23 @@
 // Laisse "" (vide) pour les vidéos pas encore prêtes : un message s'affichera à la place.
 
 const YOUTUBE_IDS = {
-  "reel": "bwSSkFhGSsPKDwDO",
-  "foreigner": "UZ3TbdSMw0sK_fTw",
-  "crumbs-title": "q2N9NQEC5_GUt4hw",
-  "crumbs-credits": "XxW7jcjrbZKP44zr",
-  "my-wife": "Y0m_pZ4__C59tGnc",
-  "skopein-fobos": "",
-  "dust": "QQXWzqGpiDlo9DkW",
-  "waiting-for-godot": "5dmE4yasslpGhgAo",
-  "retour-aux-sources": ""
+  "reel": "WKdg1RD7DEo",
+  "foreigner": "tr-UuxpOFTw",
+  "crumbs-title": "aZ9zdEdD7M4",
+  "crumbs-credits": "sTkhYkHb0uQ",
+  "my-wife": "M5geVM67VL4",
+  "skopein-fobos": "3Ru_AoNsizE",
+  "dust": "ys9dUExQYRs",
+  "waiting-for-godot": "ATsQe4yhNO0",
+  "retour-aux-sources": "w3fiEcUXYxo",
+  "anonymes": "hTcr_pqEjw4",
+  
+  "moving-still-sea-snow": "dqZqm6FLK0s",
+  "moving-still-regard-nocturne": "GLf_zA69ZNY",
+  "moving-still-underground-technologies": "vxr-OSj6mg4",
+  "moving-still-harvard-square": "lKVTteGGELU",
+  "moving-still-birds-snow": "j5osFkFZBK0",
+
+  "unusual-afternoon": "uJiq-05gjKk",
+  "berluti": "OR9CGemGJ24"
 };
